@@ -1,0 +1,1 @@
+Working in Cybersecurity is an oral history of the lives and careers of a wide range of security practitioners. It is a riff on the book *Working* by Studs Terkel, whose effort spanned several years and just about every field of endeavor you can think of.
