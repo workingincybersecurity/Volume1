@@ -22,7 +22,7 @@ I started working for a member of Congress at the time, a woman named Jane Harma
 
 But this whole thesis of … you know … how do we how do we optimize systems? How do we preserve things under contention? How do we really manage resources effectively? Those are really big concepts in cybersecurity, and that’s really how I got hooked in. 
 
-**Perfect timing, because one of the things that I wanted to touch on was your time working for Congresswoman Harman. What was a day in the life like in the policy-making environment? That’s an area that security people tend to ignore or discount, but absent policy, there is no mandate to change, which is something just about everyone agrees is necessary if things are going to improve. **
+**Perfect timing, because one of the things that I wanted to touch on was your time working for Congresswoman Harman. What was a day in the life like in the policy-making environment? That’s an area that security people tend to ignore or discount, but absent policy, there is no mandate to change, which is something just about everyone agrees is necessary if things are going to improve.**
 
 It’s really difficult. Everybody is so young and so smart … even if they don’t know the information, even if they don’t have the content … they’re very intelligent. And that’s helpful except that you’re constantly—if you’re built like me, anyway—you’re constantly trying to increase the amount of content you know. Right? So this is where you find yourself getting up at like five in the morning, and reading all the information that you can, and then you get on the Metro, and you ride to the Capitol, and you get off, and on the way you’ve read like 15 other articles, and you get to the office and sit down, and you pile through more content. You’re just trying to absorb so much information. 
 
@@ -32,7 +32,7 @@ But on the flip side, you work for this person with incredibly high expectations
 
 [...]
 
-**You are not alone in the sense that your career has kind of sort of been a meander. A lot of people that I’ve talked to have had similar career paths—if you want to call it a path—and not just this random walk through the field. But you have operated at pretty high levels, and you’re technically astute. But there is this phenomenon of imposter syndrome in our field. Is that something that you’ve had to deal with, and how do you deal with it? **
+**You are not alone in the sense that your career has kind of sort of been a meander. A lot of people that I’ve talked to have had similar career paths—if you want to call it a path—and not just this random walk through the field. But you have operated at pretty high levels, and you’re technically astute. But there is this phenomenon of imposter syndrome in our field. Is that something that you’ve had to deal with, and how do you deal with it?**
 
 One hundred percent. Yes. I still have imposter syndrome. I used to have a huge amount of imposter syndrome, and the way that I reconciled with that was by getting a Master’s Degree in Engineering at the University of Colorado at Boulder. I took an undergraduate degree in political science and a graduate degree in national security studies, and I turned around and got a Masters of Engineering from one of the top programs in the country. How exactly I pulled that off, I’m not entirely sure, but it was a good outcome.
 
