@@ -1,0 +1,9 @@
+# About the Author
+
+**Michael Tanji** has spent over 20 years successfully fulfilling a number of technical, managerial, and CxO roles in both the military, government, and in commercial concerns.
+
+He started his career in the U.S. Army and left federal service as a division chief at the Defense Intelligence Agency. Trained in both signals and human intelligence disciplines, he has worked on issues as diverse as communications intelligence, network security, digital media exploitation, counterintelligence, cyber threat intelligence, and information warfare. For several years he managed the DOD'’s cyber threat intelligence warning system, and was one of a select few DIA officers to provide intelligence support to the Joint Task Force - Computer Network Defense, the predecessor to today’’s U.S. Cyber Command. Michael has worked at the National Security Agency, National Reconnaissance Office, and the U.S. Army’’s Intelligence and Security Command, and on projects for the National Intelligence Council, National Security Council and NATO.
+
+Leaving government service in 2005, Michael spent several years in the financial sector, and was an adjunct lecturer at the George Washington University. He joined several colleagues to form Kyrus Tech, a boutique computer security research, development, and operations company in 2009. The insights gained by Kyrus engineers resulted in the successful spin-off of companies like Carbon Black and Red Canary. As of the date this book was published, Mr. Tanji serves as COO of Senrio, a company working to improve awareness and insight of threats to the Internet of Things.
+
+Michael is the editor of and a contributor to Threats in the Age of Obama. His insights and opinions have been published or shared in a wide range of periodicals and radio programs worldwide.
